@@ -1,0 +1,14 @@
+{
+    "name": "rutek/laminas-view-bug",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Łukasz Rutkowski",
+            "email": "lukasz.rutkowski@tauceti.email"
+        }
+    ],
+    "require": {
+        "laminas/laminas-view": "2.16",
+        "laminas/laminas-servicemanager": "^3.10"
+    }
+}
